@@ -1,4 +1,4 @@
-# gym-management-system
+# gym-management-system🏋️‍♂️
 
 Java desktop application for managing a gym's activities, users, and staff. Developed as part of the course *Diseño y Desarrollo de Sistemas de Información* (3rd year of Engineering degree).
 
